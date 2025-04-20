@@ -3,7 +3,7 @@
 ```md
 
 <p align="center">
-  <img src="https://github.com/rajanprajapati1/PDF-ChatBot/blob/main/demo/Screenshot%20(12).png?raw=true" alt="PDF ChatBot Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/rajanprajapati1/PDF-ChatBot/refs/heads/main/demo/Screenshot%20(12).png" alt="PDF ChatBot Screenshot" width="700"/>
 </p>
 
 
