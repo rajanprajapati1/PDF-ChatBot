@@ -1,6 +1,11 @@
 ```md
 # 📄 PDF ChatBot
 
+
+<p align="center">
+  <img src="https://github.com/rajanprajapati1/PDF-ChatBot/blob/main/demo/Screenshot%20(12).png?raw=true" alt="PDF ChatBot Screenshot" width="700"/>
+</p>
+
 Welcome to **PDF ChatBot** — an AI-powered PDF summarizer and chatbot built using **Next.js**, **TailwindCSS**, **LangChain**, **Pinecone**, and **OPEN AI**. Upload any PDF and interact with it like a pro using natural language.
 
 ---
